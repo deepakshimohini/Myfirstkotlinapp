@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My first kotlin app</string>
+    <string name="first_name">hello world</string>
+    <string name="second_name">check</string>
+    <string name="third_name">check again</string>
+    <string name="fourth_name">i am a great developer</string>
+</resources>
